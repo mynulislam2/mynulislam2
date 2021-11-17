@@ -32,7 +32,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/mynuislam)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mynuislam)  
-
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mynuislam)  
+ -->
 ![Profile views](https://gpvc.arturio.dev/mynuislam)  
 
