@@ -10,7 +10,7 @@
 
 -Ask me about **javascript,react,redux,firebase,MongoDB,Express.js,Node.js**
 
--How to reach me <i class="fas fa-envelope"></i>**homeexercise8@gmail.com**
+-How to reach me : **homeexercise8@gmail.com**
 
 -Fun fact **I love to talk**
 
