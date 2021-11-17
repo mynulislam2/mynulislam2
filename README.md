@@ -7,7 +7,7 @@
 
 -I’m currently learning **GraphQL**
 
--All of my projects are available at [https://www.codermynul.com/](https://www.codermynul.com/)
+-My Portfolio: [https://www.codermynul.com/](https://www.codermynul.com/)
 
 -Ask me about **javascript,react,redux,firebase,MongoDB,Express.js,Node.js**
 
