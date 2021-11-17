@@ -2,17 +2,17 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Mynul</h1>
 <h3 align="center">A passionate MERN STACK developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **ema-Jhon project**
+-I’m currently working on **ema-Jhon project**
 
-- 🌱 I’m currently learning **GraphQL**
+-I’m currently learning **GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://www.codermynul.com/](https://www.codermynul.com/)
+-All of my projects are available at [https://www.codermynul.com/](https://www.codermynul.com/)
 
-- 💬 Ask me about **javascript,react,redux,firebase,MongoDB,Express.js,Node.js**
+-Ask me about **javascript,react,redux,firebase,MongoDB,Express.js,Node.js**
 
-- 📫 How to reach me **homeexercise8@gmail.com**
+-How to reach me **homeexercise8@gmail.com**
 
-- ⚡ Fun fact **I love to talk**
+-Fun fact **I love to talk**
 
 <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
