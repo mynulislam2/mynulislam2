@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://fb.com/coder mynul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coder mynul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/coder mynul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coder mynul" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/coder mynul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="coder mynul" height="30" width="40" /></a>
-<a href="https://fb.com/coder mynul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coder mynul" height="30" width="40" /></a>
 <a href="https://medium.com/@coder mynul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coder mynul" height="30" width="40" /></a>
 </p>
 
