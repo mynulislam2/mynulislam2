@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://www.codermynul.com/](https://www.codermynul.com/)
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 💬 Ask me about **javascript,react,redux,firebase,MongoDB,Express.js,Node.js**
 
