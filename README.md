@@ -32,7 +32,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mynulislam2&theme=tokyonight&show_icons=true"></img>
 
 
-![GitHub metrics](https://metrics.lecoq.io/mynulislam2)  
+
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mynulislam2)  
  -->
