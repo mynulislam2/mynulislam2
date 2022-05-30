@@ -12,16 +12,14 @@
 
 -Ask me about **javascript,react,redux,firebase,MongoDB,Express.js,Node.js**
 
--How to reach me : **homeexercise8@gmail.com**
+-How to reach me : **mynulislamridoy@gmail.com**
 
 -Fun fact **I love to talk**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://fb.com/coder mynul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="coder mynul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/coder mynul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coder mynul" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/coder mynul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="coder mynul" height="30" width="40" /></a>
-<a href="https://medium.com/@coder mynul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coder mynul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mynul-islam-ridoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coder mynul" height="30" width="40" /></a>
 </p>
 
 <h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
