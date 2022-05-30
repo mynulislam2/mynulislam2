@@ -4,11 +4,11 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Mynul</h1>
 <h3 align="center">A passionate MERN STACK developer from Bangladesh</h3>
 
--I’m currently working on **..... project**
+-I’m currently working on menufacture tools project**
 
 -I’m currently learning **Redux**
 
--My Portfolio: [https://www.codermynul.com/](https://www.codermynul.com/)
+-My Portfolio: [mynul islam](https://mynulislam.netlify.app/)
 
 -Ask me about **javascript,react,redux,firebase,MongoDB,Express.js,Node.js**
 
