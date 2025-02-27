@@ -1,21 +1,17 @@
 <img src="https://i.ibb.co/QYy88CZ/download.png" alt="download" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm mynul islam</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate web and mobile application developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynulislam2&label=Profile%20views&color=0e75b6&style=flat" alt="mynulislam2" /> </p>
 
-- 🔭 I’m currently working on [manufacturer tools](https://manufacturer-82b05.firebaseapp.com/)
+- 🔭 I’m currently working on Nissan assets watch project
 
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://mynulislam.netlify.app/](https://mynulislam.netlify.app/)
-
-- 💬 Ask me about **react.js,javascript,css,html,Bootstrap,tailwind css**
+- 💬 Ask me about **React.js, Javascript, Typescript, React Native
 
 - 📫 How to reach me **mynulislamridoy@gmail.com**
 
-- 📄 Know about my experiences [https://cutt.ly/LJib7jC](https://cutt.ly/LJib7jC)
+- 📄 Know about my experiences [Link](https://shorturl.at/aP6TU)
 
 - ⚡ Fun fact **Love to talk**
 
