@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Nissan assets watch project
 
-- 💬 Ask me about **React.js, Javascript, Typescript, React Native
+- 💬 Ask me about React.js, Javascript, Typescript, React Native
 
 - 📫 How to reach me **mynulislamridoy@gmail.com**
 
