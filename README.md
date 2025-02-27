@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co.com/MyZzRsnW/1736964935539.jpg" alt="download" width="500px" height="250px"/>
-
 <h1 align="center">Hi 👋, I'm mynul islam</h1>
 <h3 align="center">A passionate web and mobile application developer from Bangladesh</h3>
 
