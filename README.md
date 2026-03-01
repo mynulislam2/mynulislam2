@@ -18,8 +18,3 @@
 <a href="https://linkedin.com/in/mynul-islam-ridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mynul-islam-ridoy" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mynulislam2&show_icons=true&locale=en&layout=compact" alt="mynulislam2" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mynulislam2&show_icons=true&locale=en" alt="mynulislam2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mynulislam2&" alt="mynulislam2" /></p>
